@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Pepsi DB.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions for Pepsi
-	under construction
+	site under construction
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
